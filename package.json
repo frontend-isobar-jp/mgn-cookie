@@ -1,0 +1,23 @@
+{
+  "name": "mgn-cookie",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./src/mgn-cookie.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --hot --inline",
+    "build": "webpack --mode production",
+    "build:dev": "webpack --mode development"
+  },
+  "keywords": [
+    "Cookie",
+    "js",
+    "library",
+    "ECMA script",
+    "not jQuery"
+  ],
+  "author": "Dentsu Isobar (https://github.com/frontend-isobar-jp)",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {}
+}
